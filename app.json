@@ -1,0 +1,12 @@
+{
+  "name": "assistant-mobile",
+  "displayName": "assistant-mobile",
+  "expo": {
+    "name": "assistant-mobile",
+    "slug": "assistant-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
